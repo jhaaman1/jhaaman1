@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhaaman1
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...web development project
 - 📫 How to reach me ...jhaaman061@gmail.com
 
 <!---
