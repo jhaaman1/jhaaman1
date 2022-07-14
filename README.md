@@ -10,7 +10,7 @@
 ### Glad to see you here! &nbsp;
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=DC143C&width=650&height=80&lines=Backend+%26+Java+Developer+;Passionate+to+develop+scalable+products+;Always+learning+new+things;&center=true&width=640&height=45&vCenter=true&size=28" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=DC143C&width=650&height=80&lines=React.js+%26+MERN+Developer+;Passionate+to+develop+scalable+products+;Always+learning+new+things;&center=true&width=640&height=45&vCenter=true&size=28" />
 </p>
 
 - 🔭 I’m currently working on learning different libraries like React , Chakra UI and also MERN and working on some app development.
