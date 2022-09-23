@@ -35,6 +35,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaaman1&theme=radical&langs_count=8" alt="jhaaman" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=jhaaman1&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
+ 
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhaaman1&theme=radical&langs_count=8" alt="jhaaman1" /></p> -->
 
